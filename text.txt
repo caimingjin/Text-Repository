@@ -1,2 +1,3 @@
 ﻿this is my frist git text file
 git was a good soft
+have a new change 
