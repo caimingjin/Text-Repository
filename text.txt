@@ -1,4 +1,5 @@
-﻿this is my frist git text file.
-git was a good soft
+git text file.
+add new line
+and a point
 have a new change 
 word.
