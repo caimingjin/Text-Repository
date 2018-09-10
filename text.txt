@@ -1,5 +1,5 @@
 git text file.
 add new line
-and a point
+add a point
 have a new change 
 word.
